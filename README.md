@@ -1,4 +1,6 @@
 # first-java-game
+[![License | Unlicense](https://img.shields.io/badge/license-unlicense-blue.svg)](https://github.com/Lydzje/first-java-game/blob/master/LICENSE)
+
 This repo contains the first "game" I made. Click [here](https://github.com/Lydzje/first-java-game/raw/master/bin/testGame.jar) to download an executable jar.
 
 In my Linux system I had to install OpenJFX in order to make it run:
